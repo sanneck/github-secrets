@@ -6,7 +6,7 @@ Often, when committing secrets by mistake, developers just remove the file and c
 
 ## Screenshots
 
-![Github-secrets](https://i.imgur.com/GXZwvqk.png)
+![Github-secrets](https://i.imgur.com/BhD0VwQ.png)
 
 ### Examples
 
@@ -18,7 +18,7 @@ Often, when committing secrets by mistake, developers just remove the file and c
 
 `./github-secrets -o meta`
 
-* Clone all the github repositories from the organization's members:
+* Clone all github repositories of members of the specified organization:
 
 `./github-secrets -om meta`
 

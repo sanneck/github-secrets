@@ -21,10 +21,10 @@ show_help(){
     # Display Help
     echo
     echo "options:"
-    echo "-u, --user         Clone all the github repositories from the specified user"
-    echo "-o, --org          Clone all the github repositories from the specified organization"
-    echo "-om, --orgm        Clone all the github repositories from the organization's members"
-    echo "-h,-?,-help        Print help"
+    echo "-u, --user            Clone all the github repositories from the specified user"
+    echo "-o, --org             Clone all the github repositories from the specified organization"
+    echo "-om, --orgmembers     Clone all the github repositories from the organization's members"
+    echo "-h,-?,-help           Print help"
     echo
     echo "Examples:" 
     echo "  ./github-secrets -u sanneck"
