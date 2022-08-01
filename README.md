@@ -6,7 +6,7 @@ Often, when committing secrets by mistake, developers just remove the file and c
 
 ## Screenshots
 
-![Github-secrets](https://i.imgur.com/BhD0VwQ.png)
+![Github-secrets](https://i.imgur.com/GXZwvqk.png)
 
 ### Examples
 
